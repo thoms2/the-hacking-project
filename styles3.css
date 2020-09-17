@@ -1,0 +1,79 @@
+.bleue
+{
+    color: #44c7ff;
+}
+.fancypositioning
+{
+    display: block;
+    content: "";
+    clear: both;
+}
+.picture-left
+{
+    float:left;
+    width: 40%;
+    overflow: hidden;
+    margin-right: 1em;
+}
+.tleft
+{
+    float:left;
+    width: 55%;
+}
+
+.small
+{
+    font-size: 6px;
+}
+
+.rouge 
+{
+    color : red;    
+}
+
+.wrong
+{
+    
+    color: #c0392b;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.maroon
+{
+    color: #85144b;
+}
+.blue
+{
+    color: #00e;
+}
+.violet
+{
+    color: #551a8b;
+}
+.grey
+{
+    color: #444;
+}
+.greys
+{
+    color: #454545;
+}
+.kopimi
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body
+{
+    background-color: black;
+    margin:40px auto;
+    max-width:850px;
+    line-height:1.6;
+    font-size:15px;
+    text-align: justify;
+    color:#FFFFFF;
+    padding:20px;
+    font-family: verdana;
+    
